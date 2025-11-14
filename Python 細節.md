@@ -1,4 +1,7 @@
 ## GUI 設定, 一開始畫面的設定
+提示語
+Screen 的部份
+---
     root = tk.Tk()
     root.title("ERP SQL 查詢工具")
     root.state('zoomed')
