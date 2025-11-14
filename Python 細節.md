@@ -1,6 +1,7 @@
 ## GUI 設定, 一開始畫面的設定
 提示語
 Screen 的部份
+    1.程式執行 Zoom 放到最大
 ---
     root = tk.Tk()
     root.title("ERP SQL 查詢工具")
